@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover zsdvq - Transforming Ideas into Unforgettable Experiences",
+        "title": "Unleash Your Potential with Innovation"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Discover zsdvq - Transforming Ideas into Unforgettable Experiences",
+        "title": "Unleash Your Potential with Innovation"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover zsdvq - Transforming Ideas into Unforgettable Experiences",
+        "title": "Unleash Your Potential with Innovation"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover zsdvq - Transforming Ideas into Unforgettable Experiences",
+        "title": "Unleash Your Potential with Innovation"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover zsdvq - Transforming Ideas into Unforgettable Experiences",
+        "title": "Unleash Your Potential with Innovation"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover zsdvq - Transforming Ideas into Unforgettable Experiences",
+        "title": "Unleash Your Potential with Innovation"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover zsdvq - Transforming Ideas into Unforgettable Experiences",
+        "title": "Unleash Your Potential with Innovation"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover zsdvq - Transforming Ideas into Unforgettable Experiences",
+        "title": "Unleash Your Potential with Innovation"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Unleash Your Potential with Innovation",
+  "subtitle": "Discover zsdvq - Transforming Ideas into Unforgettable Experiences"
+}
